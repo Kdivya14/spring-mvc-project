@@ -64,10 +64,4 @@ public class Employee {
 				+ ", salary=" + salary + ", empStatus=" + empStatus + "]";
 	}
 
-	
-	
-
-
-	
-
 }
